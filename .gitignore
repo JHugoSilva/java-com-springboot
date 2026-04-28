@@ -9,3 +9,6 @@ bin/
 .DS_Store
 Thumbs.db
 .env
+
+Dockerfile
+docker-compose.yml
